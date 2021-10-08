@@ -9,6 +9,7 @@ If you want to contact me, please leave me a message~!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansuvin&langs_count=5&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![issue_badge](https://img.shields.io/badge/swift-FA7343?style=flat&logo=swift&logoColor=white&b)
 ![issue_badge](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white&b)
 ![issue_badge](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=Android%20Studio&logoColor=white&b)
 ![issue_badge](https://img.shields.io/badge/Kotlin-0095d5?style=flat&logo=Kotlin&logoColor=white&b)
