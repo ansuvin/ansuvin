@@ -1,9 +1,7 @@
 ### Hi there 👋
-Good day! I am Subin An who is interested in Android Programming from South Korea.
+#### 안녕하세요! 언제나 배우는 중인 스위프트 개발자 안수빈 입니다!
 
-If you want to contact me, please leave me a message~!
-
-
+안드로이드 자바 -> 안드로이드 코틀린 -> 플러터 -> iOS 스위프트 개발중
 
 ![SubinAn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansuvin&show_icons=true&theme=radical)
 
